@@ -44,6 +44,14 @@ section#entertainment {
   background: url(../img/section-bg.jpg) no-repeat bottom/cover;
   padding: 10rem 0;
 }
+
+.gift-cards {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  text-align: left;
+}
+
 /* Showcase */
 #showcase {
   margin: 0;
